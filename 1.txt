@@ -1,0 +1,2 @@
+<h1> welcome to NSIC</h1>
+<h2> NSIC is training institute for students</h2>
